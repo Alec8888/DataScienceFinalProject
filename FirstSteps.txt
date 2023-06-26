@@ -2,6 +2,7 @@ As a first task, please complete the final project proposal assignment by July 9
 
 Please post on your group discussion page:
 1. Set up a public project GitHub repository and post the link
+  a. https://github.com/Alec8888/DataScienceFinalProejct
 2. Post the name of the leader of the group
 3. Please conduct a first meeting and let me know of any non-responsive members.
 
