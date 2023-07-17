@@ -1,0 +1,25 @@
+As a first task, please complete the final project proposal assignment by July 9th.
+
+Please post on your group discussion page:
+1. Set up a public project GitHub repository and post the link
+  a. https://github.com/Alec8888/DataScienceFinalProejct
+2. Post the name of the leader of the group
+3. Please conduct a first meeting and let me know of any non-responsive members.
+
+The final project proposal should be 1-2 pages describing the following:
+* problem statement: motivation and state-of-the-art methods (we encourage solving more up-to-date problems)
+* dataset: size, attributes, characteristics (5V's of big data including volume, variety, and veracity)
+* different tools and methods to be used (we encourage using methods taught as a basis and use advanced methods like an ensemble, parameter tuning, feature selection, etc. as a comparison)
+* challenges and evaluation methods (we encourage conducting both runtime and accuracy evaluation of the system/methods)
+
+From Proposal canvas page:
+The project proposal (~2 pages) submission need to be in PDF describing the following:
+1. Title of the project, student member names and IDs
+2. Synopsis of the goal of the project and how it will apply data science to solve real-life problems, how it will leverage the techniques taught in class this semester
+3. Details of the data set, problem statement, evaluation metric, baseline techniques to be used (preferably in recently literature to solve the same or similar problem), what kind of novelty/innovation/impact you would make.
+
+For suggestions of project ideas, I encourage you to check out:
+https://www.kaggle.com/competitions
+https://docs.google.com/document/d/15nh5ELNQva1WxFwz_2W2S_-iexu5obGIRpB6EoAdFwc/edit
+
+
